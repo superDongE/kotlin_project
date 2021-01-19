@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- selector가 눌렸을때 @drawable/button01_press 를 보여준다.-->
+    <item android:state_focused="true" android:drawable="@drawable/custom_loing_edit"/>
+
+    <!-- selector가 눌리지 않았을때 @drawable/button01_normal 를 보여준다.-->
+    <item android:state_focused="false" android:drawable="@drawable/border_round_email"/>
+
+</selector>

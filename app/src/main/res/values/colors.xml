@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fcfcfc</color>
+    <color name="colorPrimaryDark">#889dfe</color>
+    <color name="colorAccent">#889dfe</color>
+
+    <!-- 기본 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="whiteForBackground">#FFFFFF</color>
+    <color name="blackForText">#4a4a4a</color>
+    <color name="redForText">#d9534f</color>
+
+    <color name="gosuga">#c6c5c6</color>
+    <color name="btn_1">#bebdbf</color>
+
+
+    <!--    숨고색-->
+    <color name="blue">#4785ff</color>
+    <color name="indigo">#6610f2</color>
+    <color name="purple">#6f42c1</color>
+    <color name="pink">#e83e8c</color>
+    <color name="red">#ff3131</color>
+    <color name="orange">#fd7e14</color>
+    <color name="yellow">#ffce21</color>
+    <color name="green">#28a745</color>
+    <color name="teal">#20c997</color>
+    <color name="cyan">#17a2b8</color>
+    <color name="primary">#00c7ae</color>
+    <color name="secondary">#e1e1e1</color>
+    <color name="success">#00c7ae</color>
+    <color name="info">#17a2b8</color>
+    <color name="warning">#ffce21</color>
+    <color name="danger">#ff3131</color>
+    <color name="light">#fafafa</color>
+    <color name="dark">#525252</color>
+    <color name="gray">#999</color>
+    <color name="gosu_discount">#fa5963</color>
+
+
+        <color name="pressed">#B3CA6F</color>
+        <color name="nonpressed">#4D5052</color>
+
+
+
+</resources>

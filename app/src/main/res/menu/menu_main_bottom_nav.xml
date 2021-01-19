@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_main_btm_nav_home"
+        app:showAsAction="always"
+        android:title="@string/go_home"
+        android:icon="@drawable/sel_home"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/menu_main_btm_nav_searchgosu"
+        app:showAsAction="always"
+        android:icon="@drawable/sel_hom2"
+        android:title="@string/gosu"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/menu_main_btm_nav_receive"
+        android:icon="@drawable/sel_home3"
+        app:showAsAction="always"
+        android:title="@string/apl_go"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/menu_main_btm_nav_chatt"
+        app:showAsAction="always"
+        android:icon="@drawable/sel_home4"
+        android:title="@string/chatt"
+        />
+    <item
+        android:id="@+id/menu_main_btm_nav_myprofile"
+        app:showAsAction="always"
+        android:title="@string/bot_mypage"
+        android:icon="@drawable/sel_home5"
+        android:enabled="true"
+
+        />
+
+</menu>
+
+<!--    android:checkable="true"-->

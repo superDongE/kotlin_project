@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <!--        액션바 숨기기-->
+        <item name="windowActionBar">false</item>
+        <!--        타이틀바 숨기기-->
+        <item name="windowNoTitle">true</item>
+        <!--        상태바 색 변경하기-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+<!--        v23을 해서 상태바 아이콘 색변경-->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
